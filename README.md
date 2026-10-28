@@ -2,7 +2,8 @@
 
 **Original, unprocessed Libyan Arabic social-media comments for sentiment analysis research**
 
-**Researcher / repository maintainer:** Almahdi Elzalouk  
+**Researcher / repository maintainer:** Almahdi Elzalouk 
+Husein Khalil
 **Related research:** *A Comparative Study on Overfitting Control in Libyan Sentiment Analysis Models*  
 **Research DOI:** https://doi.org/10.36602/ijeit.v15i1.755
 
@@ -104,13 +105,9 @@ For research building on Elzalouk's overfitting-control study, cite the related 
 
 > *A Comparative Study on Overfitting Control in Libyan Sentiment Analysis Models*. https://doi.org/10.36602/ijeit.v15i1.755
 
-When using these datasets themselves, **also cite the original data-collection paper above**. Citing the related research does not replace credit to the original dataset authors.
-
 ## Responsible use and redistribution
 
 The files may contain public account display names, handles, timestamps, and direct post or media URLs. Researchers should consider applicable privacy expectations, platform terms, and ethical requirements before republishing, joining, or redistributing individual records.
-
-The repository maintainer reports having obtained permission to redistribute these original datasets. No independent license is granted here for third-party social-media content; downstream users should review the original source, relevant platform terms, and applicable research-ethics requirements before further redistribution.
 
 ## Scope
 
