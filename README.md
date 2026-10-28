@@ -110,7 +110,7 @@ When using these datasets themselves, **also cite the original data-collection p
 
 The files may contain public account display names, handles, timestamps, and direct post or media URLs. Researchers should consider applicable privacy expectations, platform terms, and ethical requirements before republishing, joining, or redistributing individual records.
 
-**Redistribution permission has not yet been verified.** This README does not grant a license to reuse or redistribute third-party content. The original author's repository and any applicable platform terms should be checked before making the workbooks publicly accessible. Until that verification is complete, the README may be published independently while the datasets remain unpublished.
+The repository maintainer reports having obtained permission to redistribute these original datasets. No independent license is granted here for third-party social-media content; downstream users should review the original source, relevant platform terms, and applicable research-ethics requirements before further redistribution.
 
 ## Scope
 
