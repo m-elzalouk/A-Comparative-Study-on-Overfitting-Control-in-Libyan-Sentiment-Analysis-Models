@@ -3,7 +3,7 @@
 **Original, unprocessed Libyan Arabic social-media comments for sentiment analysis research**
 
 **Researcher / repository maintainer:** Almahdi Elzalouk,
-Husein Khalil
+Hussein Khalil
 **Related research:** *A Comparative Study on Overfitting Control in Libyan Sentiment Analysis Models*  
 **Research DOI:** https://doi.org/10.36602/ijeit.v15i1.755
 
